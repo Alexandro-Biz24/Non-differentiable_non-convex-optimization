@@ -35,6 +35,8 @@ Understanding how SGD behaves in such environments helps practitioners:
 
 ---
 
+Click on "SG_non_convexe.ipynb"
+
 ## Project Structure
 
 - `SG_non_convexe.ipynb` — Main interactive notebook with all code, plots, and insights.
